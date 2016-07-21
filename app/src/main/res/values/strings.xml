@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FacebookIntegrationwithFrndList</string>
+    <!-- Facebook Detail -->
+    <string name="appId">923028377816500</string>
+    <string name="appSecrate">f31139f475f7d211a9160d1ff7eee6e4</string>
+</resources>

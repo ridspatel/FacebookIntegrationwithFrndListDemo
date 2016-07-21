@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/glide-3.5.2-b49a421ac7fd8c34bb9cfee81fe747627917bb96.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/classes-10ab56243c7568446432b92632935f6d2267f1b1.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-1ebef0e6f3b4fe5402a922c2d75051ccea46896a.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-73a50e5395cad10514aacef370edb8ed20d17315.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/classes-488e8e901bc580216d919fdbc01768ed630f9086.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-6fafcd274e0c7914177e1116f5f3e2d3321bc45a.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidTools/adt-bundle-linux-x86_64-20140702/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-67c1af603e166ee20928c0335eaf06cf17e98799.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7679607a53988c76b23575d3e2bd473951773f29">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/classes-73fafaa98613563f823155a6ad22c7b31ad68bb1.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/classes-cc61511cfc0cc8399842ab5c9b9674e9eb85cd74.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/classes-6172f4cf642ba0afe8e82e5f46257ed7d2f94ca8.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/user/AndroidStudioProjects/FacebookIntegrationwithFrndListDemo/app/build/intermediates/pre-dexed/debug/classes-19224f1107560029b1f0a7613b14fbc74c05501f.jar" />
+    </item>
+
+</items>
